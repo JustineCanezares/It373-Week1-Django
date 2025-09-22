@@ -1,0 +1,5 @@
+[✔] Python version (Python 3.13.3)
+[✔] venv active
+[✔] Django version (5.2.6)
+[✔] runserver working
+[✔] Git remote set
